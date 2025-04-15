@@ -32,10 +32,10 @@ A responsive, searchable company directory built with full-stack web technologie
 ### Employee Details Modal
 ![Employee Edit Modal](assets/employee-edit.png)
 
-### 🔎 Live Search
+### Live Search
 ![Search Example](assets/search.png)
 
-### ➕ Filter Employees Modal
+### Filter Employees Modal
 ![Add Form](assets/filter-employees.png)
 
 ## 📦 Prerequisites
