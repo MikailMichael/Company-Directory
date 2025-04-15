@@ -87,3 +87,11 @@ npm install
 5. **Open the project in your browser**
 
 - Open the app by heading to `http://localhost/Company-Directory/` while XAMPP is still running.
+
+## 🔒 Security Note
+This project is designed for learning and portfolio purposes. Always validate and sanitize user inputs and protect database credentials when working in production environments.
+
+## 📬 Contact
+Mikail Deveden
+[Github](https://github.com/MikailMichael)
+[LinkedIn](https://www.linkedin.com/in/mikail-deveden/)
