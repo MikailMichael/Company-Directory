@@ -2,13 +2,9 @@
 
 A responsive, searchable company directory built with full-stack web technologies. This project allows users to view, add, and filter employees within an organization using a clean, mobile-first interface. Data is fetched dynamically from a SQL database via PHP and displayed using JavaScript for smooth user interaction.
 
----
-
 ## 📷 Demo
 
 ![App Demo](assets/demo.gif)  
-
----
 
 ## 🔎 Features
 
@@ -18,8 +14,6 @@ A responsive, searchable company directory built with full-stack web technologie
 - 💾 **Database-backed data** stored in SQL and retrieved with PHP
 - 📱 **Mobile-friendly layout** with fluid design for various screen sizes
 - 📡 Asynchronous loading and filtering using JavaScript
-
----
 
 ## 🛠️ Tech Stack
 
@@ -44,8 +38,6 @@ A responsive, searchable company directory built with full-stack web technologie
 ### ➕ Filter Employees Modal
 ![Add Form](assets/filter-employees.png)
 
----
-
 ## 📦 Prerequisites
 
 To run this project locally, ensure the following are installed on your machine:
@@ -55,8 +47,6 @@ To run this project locally, ensure the following are installed on your machine:
 - [MySQL Server](https://dev.mysql.com/downloads/mysql/) (or XAMPP which bundles it)
 - [Node.js + npm](https://nodejs.org/)
 - A code editor or IDE (e.g., [Visual Studio Code](https://code.visualstudio.com/))
-
----
 
 ## 🚀 Getting Started
 
